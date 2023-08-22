@@ -23,9 +23,9 @@ Allowed editors: vi, vim, emacs All your files will be compiled on Ubuntu 20.04 
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
 Author 1: Lwazi Luthuli
-
 Author 2: Doreen Wanyama
+
 Start: 22 August 2023
-End: 25 August 2023 
+End: 25 August 2023
 
 
